@@ -1,0 +1,11 @@
+{
+  "name": "parkinglot",
+  "version": "0.0.1",
+  "description": "parkinglot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Gupta",
+  "license": "ISC"
+}
